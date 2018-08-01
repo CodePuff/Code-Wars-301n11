@@ -3,9 +3,15 @@ Code War challenge and solutions created via new branch as needed.
 
 [Code of Conduct](https://github.com/codefellows/code-of-conduct)
 
-## Code Wars Challenge
+## Code Wars Challenge kata/insert-dashes Lab-03
 
-Complete [today's Kata](https://www.codewars.com/kata/"name-of-today/'s-Kata") and follow the submission instructions below.
+-Partners: James Portune and Nicholas Welch
+
+Complete [today's Kata](https://www.codewars.com/kata/insert-dashes) and follow the submission instructions below.
+
+## Problem Domain
+
+Write a function insertDash(num)/InsertDash(int num) that will insert dashes ('-') between each two odd numbers in num. For example: if num is 454793 the output should be 4547-9-3. Don't count zero as an odd number.
 
 ## Code Wars Challenge Submission Instructions
 
