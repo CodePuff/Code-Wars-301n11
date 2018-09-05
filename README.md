@@ -5,7 +5,7 @@ Code War challenge and solutions created via new branch as needed.
 
 ## Code Wars Challenge
 
-Complete [today's Kata](https://www.codewars.com/kata/"name-of-today/'s-Kata") and follow the submission instructions below.
+Complete [today's Kata](https://www.codewars.com/kata/fixme-replace-all-dots) and follow the submission instructions below.
 
 ## Code Wars Challenge Submission Instructions
 
