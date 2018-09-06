@@ -5,11 +5,11 @@ Code War challenge and solutions created via new branch as needed.
 
 ## Code Wars Challenge
 
-Complete [today's Kata](https://www.codewars.com/kata/"name-of-today/'s-Kata") and follow the submission instructions below.
+Complete [today's Kata](https://www.codewars.com/kata/reversed-strings) and follow the submission instructions below.
 
 ## Code Wars Challenge Submission Instructions
 
-1. With your assigned partner, pseudocode your solution on the whiteboard. Take a picture of your proposed solution for your repo.
+1. With your assigned partner (Ed-J-Harry), pseudocode your solution on the whiteboard. Take a picture of your proposed solution for your repo.
 1. Complete the daily Kata(s).
 1. Create a new branch for each challenge.
 1. Make a new folder in your Code Wars repository on Github. The name of the folder should be the same as the name of the challenge.
